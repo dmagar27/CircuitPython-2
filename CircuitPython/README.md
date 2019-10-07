@@ -39,5 +39,5 @@ There is not a fritzing diagram for this assignment because I only used the seri
 # FancyLED
 For this assignment, I had to used classes, objects and modules again. The goal was to make another chunk of code (that would normally have zero meaning) work. To do that, I had to make my own class. The class was called "FancyLED", and it had four instances called "alternate", "blink", "chase", and "sparkle". These instances of the FancyLED class all did something different with 6 LED's that I had on my breadboard.
 ## Fritzing Diagram
->![FancyLED Fritzing Model](fancyled.png)
+>![FancyLED Fritzing Model](Fritzing_Diagrams/fancyled.png)
 
