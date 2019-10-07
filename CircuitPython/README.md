@@ -5,6 +5,7 @@ In this assignment, I made an LED fade in and out using pulseio and duty_cycle.
 I also used time.sleep to determine how long the LED takes to get brighter and
 how long it stays at it's brightest.
 ## Fritzing Diagram
+>![Fade Fritzing Model]()
 
 # Servo
 In this assignment, I made a servo rotate back and forth. Eventually, I made it
