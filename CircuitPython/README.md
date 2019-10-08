@@ -18,12 +18,12 @@ In this assignment, I had the LCD display how many times a button had been
 pressed, and whether it was counting up or down. I had to use three different
 variables, and I also used DigitalInOut, Direction, and Pull.DOWN.
 ## Fritzing Diagram
-
+>![Servo Fritzing Model](Fritzing_Diagrams/lcd.png)
 # Photointerrupter
 In this assignment, I had my serial moniter count how many times the photointerrupter
 had been interrupted. I used two variables as well as DigitalInOut, Direction, and Pull.UP.
 ## Fritzing Diagram
-
+>![Servo Fritzing Model](Fritzing_Diagrams/photointerrupter.png)
 # Distance Sensor
 In this assignment, I made the board LED change color depending on the distance
 read by the HCSR04. I had to use neopixel, one variable for the distance, and
