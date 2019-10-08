@@ -1,6 +1,6 @@
-import time
-import board
-import pulseio
+import time #pylint: disable=import-error
+import board #pylint: disable=import-error
+import pulseio #pylint: disable=import-error
 
 led = pulseio.PWMOut(board.D13, frequency=5000, duty_cycle=0)
 
