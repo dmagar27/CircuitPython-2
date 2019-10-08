@@ -12,7 +12,7 @@ In this assignment, I made a servo rotate back and forth. Eventually, I made it
 rotate to one side when I touched a certain wire, and to the other side when I
 touched a different wire. I used touchio, pusleio, and duty_cycle.
 ## Fritzing Diagram
-
+>![Servo Fritzing Model](Fritzing_Diagrams/Servo.png)
 # LCD
 In this assignment, I had the LCD display how many times a button had been
 pressed, and whether it was counting up or down. I had to use three different
